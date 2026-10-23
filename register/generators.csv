@@ -1,0 +1,6 @@
+generator_id,unit_name,district,inspection_interval_days,response_minutes,priority
+GN-201,Aster,Norhaven,30,70,2
+GN-202,Beryl,Eastbank,45,80,1
+GN-203,Cinder,Southpoint,30,50,4
+GN-204,Dune,Westmarsh,60,40,3
+GN-205,Ember,Oldport,30,60,5

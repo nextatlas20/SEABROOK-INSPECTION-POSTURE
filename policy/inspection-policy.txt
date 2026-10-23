@@ -1,0 +1,2 @@
+Generator inspection response policy
+The release window has 180 crew-minutes. A failed latest inspection is an immediate escalation. A passing inspection is overdue only after its interval has elapsed; it is due on the interval day. Process non-current generators in the published action order and mobilize an action only when its full response-minute estimate fits the remaining window.
